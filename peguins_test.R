@@ -15,3 +15,6 @@ str(peguins.df)
 summary(peguins.df)
 hist.data.frame(peguins.df)
 
+#make a linear regression
+model<- lm(sex ~ ., data = peguins.df)
+print(model)
