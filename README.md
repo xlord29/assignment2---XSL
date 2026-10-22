@@ -11,3 +11,7 @@ I first downloaded the data set penguins.csv from Moodle then cleaned the data u
 **summary(\*)**: To have an inital idea of the median, mode, and mean of the data features
 
 **hist.data.frame(\*)**: To be able to quickly visualize all the features.
+
+### Analysis 
+
+I then made a line of best fit using the **lm(\*)** function
